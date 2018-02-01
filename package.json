@@ -1,0 +1,22 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "description": "| T test简写 T.js主要是总结一些常用的验证函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lirunkai/T.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lirunkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lirunkai/T/issues"
+  },
+  "homepage": "https://github.com/lirunkai/T#readme"
+}
