@@ -5,7 +5,7 @@
 ## install
 
 ```
-npm install t
+npm install es-t-dd
 ```
 
 ## API
